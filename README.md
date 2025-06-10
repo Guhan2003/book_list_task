@@ -1,2 +1,3 @@
-# book_list_task
-A simple list of books with titles and authors, and a FAB that adds new books to the list.
+# task
+
+A new Flutter project.
