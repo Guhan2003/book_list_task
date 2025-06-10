@@ -1,3 +1,3 @@
-# task
+# Simple Book List
 
-A new Flutter project.
+A simple list of books with titles and authors, and a FAB that adds new books to the list..
